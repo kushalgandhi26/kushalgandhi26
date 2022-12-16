@@ -1,7 +1,7 @@
 <h1 align="center"> Hello, I am Kushal Gandhi!</h1>
 
 <h2 align="center">A bit about myself</h2>
-<p>I am a junior at Ahmedabad University currently doing my Bachelor of Technology in Computer Science and Engineering. 
+<p>I am a final year student at Ahmedabad University currently doing my Bachelor of Technology in Computer Science and Engineering. 
 
 I take interest in Web Development.    
  </p>
