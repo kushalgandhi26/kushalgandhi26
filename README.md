@@ -1,9 +1,9 @@
 <h1 align="center"> Hello, I am Kushal Gandhi!</h1>
 
 <h2 align="center">A bit about myself</h2>
-<p>I am a final year student at Ahmedabad University currently doing my Bachelor of Technology in Computer Science and Engineering. 
-
-I take interest in Web Development.    
+<p>I have a degree in Computer Science and Engineering, and my enthusiasm for coding is evident in my dedication
+to learning new technologies. My focus has been on web development and honing problem-solving skills. Creating
+websites and software for the community is not just a task for me; it’s a source of encouragement and excitement  
  </p>
 
 <br>
